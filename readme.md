@@ -30,7 +30,6 @@ Before diving into the details of Spring 6, make sure you have the necessary pre
 
 Clone this repository to your local machine to get started:
 
-```bash
 git clone https://github.com/Said378/spring-6.git
 
 ## Core Concepts
